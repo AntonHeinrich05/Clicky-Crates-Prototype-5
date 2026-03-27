@@ -1,4 +1,4 @@
-# Town Runner – Prototype 5
+# Clicky Crates – Prototype 5
 This project is Prototype 5 from my Unity learning journey.
 It is based on Unity’s Create with Code course.
 
